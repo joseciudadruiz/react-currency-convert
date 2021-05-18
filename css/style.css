@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(210, 247, 186);
+}
+
+.container {
+    padding: 10rem 5rem;
+}
+
+.table {
+    margin: 0;
+    border: 2px solid black;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: rgb(107, 105, 97);
+    color: white;
+}
+
+.heading {
+    color: rgb(210, 247, 186);
+}
+
+input {
+    font-weight: 700;
+}
